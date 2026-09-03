@@ -1,11 +1,13 @@
 about:
-  description: A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+  description:
+  |
+    A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
   license: MIT
   homepage: 
   head: 632cc19
   archived: true
   latestVersion: v0.34.0-beta.1
-  collectedAt: 2026-09-03T05:18:43Z
+  collectedAt: 2026-09-03T22:35:03Z
 timeline:
   created: 2024-12-08
   lastCommit: 2026-04-13
@@ -13,7 +15,7 @@ timeline:
 popularity:
   star: 1597
   watcher: 18
-  fork: 238
+  fork: 237
   release: 62
   contributor: 26
   pullRequest: 12
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 712553
   Shell: 229
-totalLine: 712782
+totalBytes: 712782
 recent:
   last30d:
     since: 2026-08-04
