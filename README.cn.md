@@ -6,13 +6,25 @@
 
 A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 
-![mcphost](https://repo.x-cmd.io/mcphost.svg)
+![mcphost](https://repo.x-cmd.io/mcphost.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install mcphost
 ```
+
+## 代码规模
+
+合计: **17,213** 行代码（覆盖前 5 种语言、共 **107** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 16,963 | 3,259 | 3,187 | 91 |
+| Python | 94 | 14 | 21 | 2 |
+| Sh | 79 | 38 | 18 | 8 |
+| Yaml | 45 | 0 | 0 | 3 |
+| Json | 32 | 0 | 1 | 3 |
 
 ## 源代码
 
@@ -24,7 +36,6 @@ x install mcphost
 - **最新版本**: `v0.34.0-beta.1` (2026-02-25)
 - **最近提交**: 2026-04-13
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-02-25T15:25:10Z
 
 ## 流行度
 
@@ -39,20 +50,31 @@ x install mcphost
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 1 | 0 | 1 |
 | 360d | 2025-09-15 | 12 | 6 | 0 | 4 | 8 | 88 |
+| last720d | 2024-09-20 | 62 | 60 | 0 | 62 | 19 | 248 |
 
-## 代码规模
+## Release 资产
 
-合计: **17,213** 行代码（覆盖前 5 种语言、共 **107** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/mark3labs/mcphost/releases/download/v0.34.0/checksums.txt) | 469 B | `other` |
+| [mcphost_Darwin_arm64.tar.gz](https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Darwin_arm64.tar.gz) | 13.6 MiB | `native/darwin/arm64` |
+| [mcphost_Darwin_x86_64.tar.gz](https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Darwin_x86_64.tar.gz) | 14.5 MiB | `native/darwin/x64` |
+| [mcphost_Linux_arm64.tar.gz](https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Linux_arm64.tar.gz) | 12.9 MiB | `native/linux/arm64` |
+| [mcphost_Linux_x86_64.tar.gz](https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Linux_x86_64.tar.gz) | 14.2 MiB | `native/linux/x64` |
+| [mcphost_Windows_x86_64.zip](https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Windows_x86_64.zip) | 14.5 MiB | `native/win/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 16,963 | 3,259 | 3,187 | 91 |
-| Python | 94 | 14 | 21 | 2 |
-| Sh | 79 | 38 | 18 | 8 |
-| Yaml | 45 | 0 | 0 | 3 |
-| Json | 32 | 0 | 1 | 3 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/mcphost) 上共有 **9** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.34.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.34.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -63,4 +85,4 @@ mcphost 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:00:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:57:59Z._
