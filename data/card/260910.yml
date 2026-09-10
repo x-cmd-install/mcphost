@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.34.0-beta.1"
   latestRelease: "v0.34.0"
   latestPrerelease: "v0.34.0-beta.1"
-  collectedAt: 2026-09-10T20:57:53Z
+  collectedAt: 2026-09-10T22:55:01Z
 timeline:
   created: 2024-12-08
   lastCommit: 2026-04-13
@@ -84,7 +84,7 @@ total:
   commit: 248
 ---
 path: /home/runner/.x-repo/github.com/mark3labs/mcphost
-collectedAt: 2026-09-10T20:57:54Z
+collectedAt: 2026-09-10T22:55:02Z
 loc:
   Go:
     code: 16963
