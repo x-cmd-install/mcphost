@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 469,
       "digest": "sha256:f40d9e50bb798a1f5f5828115f4d7a3d3be51daffe9fc5137d356255cf5225db",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-02-25T15:25:08Z",
       "updated_at": "2026-02-25T15:25:09Z",
       "browser_download_url": "https://github.com/mark3labs/mcphost/releases/download/v0.34.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14279715,
       "digest": "sha256:db4d8367283e74ead24f04a7352a2111438e680faef60ad212dc6c0da25f822f",
-      "download_count": 91,
+      "download_count": 92,
       "created_at": "2026-02-25T15:25:08Z",
       "updated_at": "2026-02-25T15:25:09Z",
       "browser_download_url": "https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14852703,
       "digest": "sha256:a27c5b3d1b29a8199f04b384a38b58e0a6596b713680eecf3d324f40aff3eaac",
-      "download_count": 348,
+      "download_count": 354,
       "created_at": "2026-02-25T15:25:07Z",
       "updated_at": "2026-02-25T15:25:08Z",
       "browser_download_url": "https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Linux_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15235629,
       "digest": "sha256:e6c0b6601891a07be7f8bfebb5a6a01bd515aa5bcba4b5fdd0fcbf21a2735852",
-      "download_count": 533,
+      "download_count": 539,
       "created_at": "2026-02-25T15:25:07Z",
       "updated_at": "2026-02-25T15:25:08Z",
       "browser_download_url": "https://github.com/mark3labs/mcphost/releases/download/v0.34.0/mcphost_Windows_x86_64.zip"
