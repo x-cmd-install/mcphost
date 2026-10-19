@@ -39,7 +39,7 @@ Total: **17,213** lines of code across **107** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,594 · **Forks**: 236 · **Open issues**: 81 · **Contributors**: 26
+- **Stars**: 1,593 · **Forks**: 236 · **Open issues**: 81 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Total: **17,213** lines of code across **107** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-23 | 9 | 5 | 0 | 4 | 6 | 83 |
-| last720d | 2024-10-28 | 62 | 60 | 0 | 62 | 19 | 248 |
+| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-24 | 9 | 5 | 0 | 4 | 6 | 83 |
+| last720d | 2024-10-29 | 62 | 60 | 0 | 62 | 19 | 248 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for mcphost lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:37:09Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:45:10Z._
