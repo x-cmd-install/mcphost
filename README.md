@@ -49,12 +49,12 @@ Total: **17,213** lines of code across **107** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-24 | 8 | 3 | 0 | 3 | 5 | 81 |
-| last720d | 2024-11-29 | 62 | 60 | 0 | 62 | 18 | 248 |
+| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-25 | 8 | 3 | 0 | 3 | 5 | 81 |
+| last720d | 2024-11-30 | 62 | 60 | 0 | 62 | 18 | 248 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for mcphost lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:41:00Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:14:00Z._
